@@ -1,0 +1,18 @@
+.Navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgba(233, 78, 6, 0.616);
+}
+.navLink {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.navLink:hover {
+  text-decoration: none;
+  color: brown;
+}
